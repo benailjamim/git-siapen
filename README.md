@@ -35,6 +35,6 @@
   <p>commitando arquivo.php</p>
   <pre><code>git commit - m "commit do arquivo.php"</code></pre>
   <p>adicionando no repositório origin</p>
-  <pre><code>git push origin master</code></pre>
+  <pre><code>git push origin origin/newbanch</code></pre>
   
 </dl>
