@@ -2,6 +2,19 @@
 
 ### Esse repositório git tem objetivo implementar aprendizagem do curso de git da [Code.Education.](http://sites.code.education/home-code/)
 ##### Tópicos abordados durante o curso:
-###### - FALANDO SOBRE GIT
-###### -
-###### -
+###### - Falando sobre Git
+###### - Sistema descentralizado e centralizado
+###### - Os 3 estágios
+###### - Fazendo o commit
+###### - Verificando Log
+###### - Ignorando arquivos
+###### - Voltando versões e ao estágio original
+###### - Entendo branches
+###### - Merge e Rebase
+###### - Criando chave de autenticação
+###### - Push e pull com branch
+###### - Trabalhando com tags
+###### - Versioamento semântico
+###### - Push e tags e remoção
+###### -  Repositório bare
+###### - Trabalhando com Hooks
