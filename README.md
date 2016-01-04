@@ -23,6 +23,6 @@
   <dt>Projeto fase 1</dt>
   <dd>Instrução para fazer o push</dd>
   <p>adicionando o repositorio remoto</p>
-  <pre><code></code></pre>
+  <pre><code>git remote add origin https</code></pre>
 
 </dl>
