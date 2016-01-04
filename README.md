@@ -28,12 +28,12 @@
   <pre><code>touch arquivo.php</code></pre>
   <p>acessando e alterando arquivo-newbahch.php</p>
   <pre><code>vim arquivo.php</code></pre>
-  <p>verificar quais arquivos estão no controle de versão</p>
+  <p>verificando quais arquivos estão no controle de versão</p>
   <pre><code>git status</code></pre>
   <p>adicionando arquivo para fazer parte do controle de versão</p>
-  <pre><code>git add arquivo.php</code></pre>
-  <p>commitando arquivo.php</p>
-  <pre><code>git commit - m "commit do arquivo.php"</code></pre>
+  <pre><code>git add arquivo-newbranch.php</code></pre>
+  <p>commitando arquivo-newbranch.php</p>
+  <pre><code>git commit - m "commit do arquivo-newbranch.php"</code></pre>
   <p>adicionando no repositório origin</p>
   <pre><code>git push origin origin/newbanch</code></pre>
   
